@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.76a8ade9.css",
+    "main.js": "/static/js/main.e5b1eaf8.js",
+    "static/media/header-1.jfif": "/static/media/header-1.74ae7359a98cb51175fa.jfif",
+    "static/media/header-3.jfif": "/static/media/header-3.f24385f4afdfe63a199f.jfif",
+    "static/media/header-2.jfif": "/static/media/header-2.690c9ac2b0b1a01f531a.jfif",
+    "static/media/about.png": "/static/media/about.c0e48b35ff94335b9398.png",
+    "static/media/ProximaNova-Semibold.ttf": "/static/media/ProximaNova-Semibold.dfa26f09d155df035c98.ttf",
+    "static/media/ProximaNova-Regular.ttf": "/static/media/ProximaNova-Regular.db098dc77c7aafe660e5.ttf",
+    "static/media/ProximaNova-Bold.ttf": "/static/media/ProximaNova-Bold.f3c7fec78a9f7f598801.ttf",
+    "static/media/logo-v2.png": "/static/media/logo-v2.f02d14bb91c640631e60.png",
+    "static/media/logo.png": "/static/media/logo.64adab0822c182659d40.png",
+    "index.html": "/index.html",
+    "static/media/cart.svg": "/static/media/cart.784af48cd4af8575c083e31755c958d5.svg",
+    "static/media/getFetch.cjs": "/static/media/getFetch.c780682470504fffbd04.cjs",
+    "static/media/prev.svg": "/static/media/prev.763884ec393cb5d5d458e35ce3288e57.svg",
+    "static/media/next.svg": "/static/media/next.6e0cffed5f45f6f06d03556608b223a4.svg",
+    "main.76a8ade9.css.map": "/static/css/main.76a8ade9.css.map",
+    "main.e5b1eaf8.js.map": "/static/js/main.e5b1eaf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76a8ade9.css",
+    "static/js/main.e5b1eaf8.js"
+  ]
+}
